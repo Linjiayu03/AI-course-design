@@ -1,9 +1,0 @@
-Num samples: 2065
-Num scores: 2065
-Timeout samples: 1
-Empty samples: 0
-Mean score: [89.8]
-Type scores: {'addsub': 75.9, 'multiarith': 95.8, 'singleeq': 94.1, 'singleop': 89.3}
-
-Time use: 420.89s
-Time use: 7:00
